@@ -39,7 +39,7 @@ If you encounter any issues or have questions, feel free to ask for help on my D
 
 ## Thanks for using my base ! Have fun modding !
 
-## Credits
+# Credits
 
 * **BOTW 1.5.0 Decompilation**: https://github.com/zeldaret/botw
 * **Exlaunch**: https://github.com/shadowninja108/exlaunch
