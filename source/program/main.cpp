@@ -11,7 +11,7 @@ HOOK_DEFINE_TRAMPOLINE(myTrampolineHook) {
     }
 };
 
-// Trampoline hooks completly replaces a function with your code
+// Replace hooks completly replaces a function with your code
 HOOK_DEFINE_REPLACE(myReplaceHook) {
     static void Callback(bool argument) {
         // your custom code
